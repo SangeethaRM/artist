@@ -1,0 +1,5 @@
+sfuser = "TF_USER"
+sfacct  = "cta53801"
+sfregion   = "us-west-2"
+sfpwd = "Newuser@123"
+sfrole = "TF_ROLE"

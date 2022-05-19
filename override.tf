@@ -1,0 +1,1 @@
+module "mod" {source = "./warehouse"}
